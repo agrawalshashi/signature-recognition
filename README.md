@@ -258,11 +258,7 @@ Prediction testing
 
 The original signature dataset is not included in this public repository.
 
-Only the project code, notebooks, trained model, and supporting files are included.
-
-## 🚀 Live Demo
-
-🔗 **Streamlit App:**  
+Only the project code, notebooks, trained model, and supporting files are included.  
 
 
 🔮 Future Improvements
